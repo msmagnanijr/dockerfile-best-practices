@@ -1,0 +1,2 @@
+1 - Python environment properties
+2 - Minimize image size

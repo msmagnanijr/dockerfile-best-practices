@@ -1,0 +1,4 @@
+1 - Pin application dependencies
+2 - Running application as root
+3 - Efficient usage of the Docker cache
+4 - Group commands

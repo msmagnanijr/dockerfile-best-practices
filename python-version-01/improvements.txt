@@ -1,0 +1,2 @@
+1 - Pin base image version
+2 - Use only trusted or official base images

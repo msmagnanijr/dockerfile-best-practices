@@ -1,0 +1,2 @@
+1 - Running application as root
+2 - Using chown when COPY or ADD files
