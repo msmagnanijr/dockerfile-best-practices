@@ -38,3 +38,9 @@ https://github.com/docker-slim/docker-slim
 https://developers.redhat.com/articles/2022/01/17/reduce-size-container-images-dockerslim#get_a_dockerslim_container_report
 
 https://github.com/aquasecurity/trivy
+
+https://sysdig.com/blog/toctou-tag-mutability/
+
+https://semaphoreci.com/blog/continuous-container-vulnerability-testing-with-trivy
+
+https://github.com/justone/dockviz

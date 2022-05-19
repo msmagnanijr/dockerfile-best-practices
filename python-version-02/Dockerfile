@@ -10,4 +10,6 @@ COPY . .
 RUN apt-get install gcc -y
 RUN apt-get clean
 
+EXPOSE 5000
+
 CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]

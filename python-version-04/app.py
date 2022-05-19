@@ -5,7 +5,7 @@ import uuid
 SUBJECTS = [
     {
         'id': uuid.uuid4().hex,
-        'name': 'Arquitetura de Computadores e Sistemas Operacionais.',
+        'name': 'Arquitetura de Computadores e Sistemas Operacionais..',
         'teacher': 'Felipe Fink Grael',
         'inprogress': True
     },

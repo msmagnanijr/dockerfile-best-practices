@@ -1,1 +1,0 @@
-1 - Use multi-stage builds to reduce the image size
